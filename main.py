@@ -16,6 +16,10 @@ sum = num1 + num2
 print(sum)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
+word1 = "program"
+word2 = "sentence"
+word3 = "variables"
+print("Make a " + word1 + " that prints a " + word2 + " that includes at least 3 " + word3)
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
